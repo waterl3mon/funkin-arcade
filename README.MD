@@ -1,4 +1,4 @@
-# Friday Night Funkin': Arcade Showdown V1
+# Friday Night Funkin': Mod Arcade V1
 
 ![All Mods Banner](https://github.com/repositoryrepos/Fnf-Mods/blob/master/bg.png)
 
