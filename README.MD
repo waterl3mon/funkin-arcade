@@ -1,6 +1,7 @@
 # Friday Night Funkin': Arcade Showdown V1
 
-![All Mods Banner](https://repositoryrepos.github.com/Fnf-Mods/assets/)
+![All Mods Banner](https://github.com/repositoryrepos/Fnf-Mods/blob/master/bg.png)
+
 
 Source code for VS Kapi V1.
 
