@@ -11,11 +11,11 @@ Website by @ublockedSlackrr.
 
 # mods
 
--Miku
--XE
--ann
--anotherfridaynight
--auditor
+- Miku
+- XE
+- ann
+- anotherfridaynight
+- auditor
  
  
 bob
