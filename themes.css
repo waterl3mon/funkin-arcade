@@ -5,13 +5,6 @@ body {
     --textcolor: #000;
     --bg: #000000;
 }
-body[theme=custom] {
-    --inputbg: #3c096c;
-    --inputborder: #5a189a;
-    --uibg: #240046;
-    --textcolor: #fff;
-    --bg: #10002b;
-}
 body[theme=main] {
     --inputbg: #333333;
     --inputborder: #444444;
@@ -22,18 +15,3 @@ body[theme=main] {
      https://wallhaven.cc/w/l82kpr */
     --shadow: 0px 0px 4px #000000;
 }
-body[theme=light] {
-    --inputbg: #CCCCCC;
-    --inputborder: #BBBBBB;
-    --uibg: #DBDBDB;
-    --textcolor: #000;
-    --bg: #F3F3F3;
-}
-body[theme=dark] {
-    --inputbg: #333333;
-    --inputborder: #444444;
-    --uibg: #242424;
-    --textcolor: #fff;
-    --bg: #0c0c0c;
-}
-
