@@ -1,53 +1,180 @@
-<html>
-	<div class="header">
-  <h1>Carson's Friday Night Funkin Mods</h1>
-</div>
-	<style>
-body {
-  background-color:#333;
-} 
-</style>
-	<title>Fnf Mods</title>	
-	<a href="https://funkymods.github.io/shaggymatt" target="_blank" style="color: green">shaggy x matt</a>
-	<a href="https://funkymods.github.io/Corruption" target="_blank" style="color: purple">corruption</a>
-	<a href="https://funkymods.github.io/Miku" target="_blank" style="color: pink">Miku</a>
-	<a href="https://funkymods.github.io/XE" target="_blank" style="color: yellow">vs XE</a>
-	<a href="https://funkymods.github.io/ann" target="_blank" style="color: green">ann</a>
-	<a href="https://funkymods.github.io/bsides" target="_blank" style="color: yellow">bsides</a>
-	<a href="https://funkymods.github.io/deepseadate" target="_blank" style="color: blue">deep sea date</a>
-	<a href="https://funkymods.github.io/everywhereattheendoffunk" target="_blank" style="color: gray">EATEOF</a>
-	<a href="https://funkymods.github.io/flipside" target="_blank" style="color: red">FlipSide</a>
-	<a href="https://funkymods.github.io/h3llbeats" target="_blank" style="color: red">Heck beats</a>
-	<a href="https://funkymods.github.io/henry" target="_blank" style="font-size: px; style="color: orange">vs Henry Stickmin</a>
-	<a href="https://funkymods.github.io/hex" target="_blank" style="color: blue">vs Hex</a>
-	<a href="https://funkymods.github.io/kapi" target="_blank" style="color: gray">vs kapi (old)</a>
-	<a href="https://funkymods.github.io/matt" target="_blank" style="color: orange">vs Matt (first 2 weeks)</a>
-	<a href="https://funkymods.github.io/minus" target="_blank" style="color: yellow">Friday Night Funkin:Minus</a>
-	<a href="https://funkymods.github.io/monika" target="_blank" style="color: pink">vs Monika Full Week</a>
-	<a href="https://funkymods.github.io/neo" target="_blank" style="color: purple">FNF Neo (old)</a>
-	<a href="https://funkymods.github.io/rosecriminal" target="_blank" style="color: brown">Michael Jackson's Smooth Criminal over "Roses"</a>
-	<a href="https://funkymods.github.io/saltyssundaynight" target="_blank" style="color: gray">Salty's Sunday Night</a>
-	<a href="https://funkymods.github.io/shaggy" target="_blank" style="color: green">vs Shaggy (old)</a>
-	<a href="https://funkymods.github.io/shaggyhd" target="_blank" style="color: green">vs Shaggy HD</a>
-	<a href="https://funkymods.github.io/smokeemoutstruggle" target="_blank" style="color: green">vs Garcello</a>
-	<a href="https://funkymods.github.io/starcatcher" target="_blank" style="color: pink">Star Catcher</a>
-	<a href="https://funkymods.github.io/sussy2" target="_blank" style="color: red">vs Impostor 2.0</a>
-	<a href="https://funkymods.github.io/tabi" target="_blank" style="color: yellow">vs Ex</a>
-	<a href="https://funkymods.github.io/tord" target="_blank" style="color: red">vs tord</a>
-	<a href="https://funkymods.github.io/touhou" target="_blank" style="color: orange">Touhou</a>
-	<a href="https://funkymods.github.io/upside" target="_blank" style="color: pink">FNF Upside</a>
-	<a href="https://funkymods.github.io/void" target="_blank" style="color: purple">vs Void</a>
-	<a href="https://funkymods.github.io/vschara" target="_blank" style="color: red">vs Chara</a>
-	<a href="https://funkymods.github.io/week6" target="_blank" style="color: pink">Week 6</a>
-	<a href="https://funkymods.github.io/week7" target="_blank" style="color: yellow">Week 7</a>
-	<a href="https://funkymods.github.io/whitman" target="_blank" style="color: orange">vs Whitty</a>
-	<a href="https://funkymods.github.io/x-sides" target="_blank" style="color: black">X Sides</a>
-	<a href="https://funkymods.github.io/xevent" target="_blank" style="color: white">X event</a>
-	<a href="https://funkymods.github.io/zardy" target="_blank" style="color: brown">vs Zardy (old)</a>
-        <a href="https://funkymods.github.io/tricky" target="_blank" style="color: red">Tricky FULL WEEK</a>											    
-        <a href="https://funkymods.github.io" target="_blank" style="color: green">Impostor V3</a>												    
-	<a href="https://carsonharrell.github.io/dusttale" target="_blank" style="color: green">Dust Tale</a>										    
-	
-	
-	
-</html>    
+<!DOCTYPE html>
+<html class="sl-theme-dark" lang="en">
+  <head>
+    <!-- initialize theme vars
+    https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff -->
+
+    <!-- initialize externals -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script src=" https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js "></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.9.0/cdn/themes/dark.css" />
+     <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.9.0/cdn/shoelace-autoloader.js"></script>
+    <!-- initialize my stuff -->
+    <script src="/js/all.js"></script>
+    <script src="/js/search.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="/js/themes.js"></script>
+    <script src="/js/cookie.js"></script>
+
+	  
+	  <!-- load the JSON files here,still apart of internal -->
+    <script src="/js/fnfmods.js"></script>
+
+	  
+       <!--thanks to @WilardzySenpai-->
+    <link rel="stylesheet" href="loading/fnfmods.css" />
+
+    
+    <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+      new Crate({
+          server: '1148719137238040606', // Selenite
+          channel: '1173731814196645909' // #commands
+      })
+    </script>
+    <link rel="stylesheet" href="/style.css" />
+<link rel="stylesheet" href="/themes.css" />
+
+    <!-- Loading screen + other things -->
+    <title>Fnf Mods</title>
+    <link rel="icon" href="/favicon.ico" />
+
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <!-- toastify -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        setTimeout(() => {
+          const container = document.querySelector("alerts");
+          const safemodealert = container.querySelector(`sl-alert.safemodeinfo`);
+          const tooltip = document.querySelector('.manual-tooltip');
+          if (Math.random() < 0.33) {
+            safemodealert.toast();
+          } else if(Math.random() < 0.5) {
+            tooltip.open = !tooltip.open;
+            setTimeout(() => {
+              tooltip.open = !tooltip.open;
+            }, 5000)
+          }
+        }, 500);
+      });
+    </script>
+  </head>
+  <alerts>
+    <sl-alert class="safemodeinfo" variant="primary" duration="6000" closable>
+      <sl-icon slot="icon" name="info-circle"></sl-icon>
+      <strong>Pro Tip:</strong><br />
+      Type "safemode" while in any game to go to Google. Go to settings to change this.
+    </sl-alert>
+  </alerts>
+  <body>
+    
+    <!--LOADING SCREEN BY @WilardzySenpai 03- -->
+    
+        <div class="preloader">
+        <div class="counter">0</div>
+    </div>
+    <section>
+    <!-- Loading Script -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript">
+	  function counter(){
+		  var count = setInterval(function(){
+			  var c = parseInt($('.counter').text());
+			  $('.counter').text((++c).toString());
+			  if (c == 100){
+				  clearInterval(count);
+				  $('.counter').addClass('hide')
+				  $('.preloader').addClass('active')
+			  }
+        // 1-100, 1 superfast countdown 50 mild countdown and so on, the higher number the slower.
+		  },25)
+	  }
+	  counter()
+</script>
+
+
+    	<!-- <marquee> update alerts here! </marquee> -->
+
+      
+    <header>
+      <a href="/index.html">Home</a>
+      <a href="/bookmarklets.html">Bookmarklets</a>
+            <a href="/Games.html">Games</a>
+      <a href="/settings.html">Settings</a>
+      <a href="/support.html">Support</a>
+      <a id="blank" href="#">Open Blank</a>
+      <a href="/about.html">About</a>
+    </header>
+	    <!-- sub header -->
+    <header>
+      <a href="/io.html">.Io Games</a>
+      <a href="/poke.html">Pokemon games</a>
+      <a href="/fnfmods.html">Fnf Mods</a>
+      <a href="/emulated.html">emulated Games</a>
+      <a href="/fnaf.html">Fnaf</a>
+      <a href="/underrated.html">Underrated Games</a>
+      <a href="/gun-games.html">Gun Games</a>
+    </header>
+    <main>
+      <div id="adcontainer">
+        <h3><a href="ad.html">AD (click to read more):</a></h3>
+        <script type="text/javascript">
+          atOptions = {
+            'key' : 'a4e483c304d8788fbb3f86d0fccd7dd2',
+            'format' : 'iframe',
+            'height' : 90,
+            'width' : 728,
+            'params' : {}
+          };
+          document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/a4e483c304d8788fbb3f86d0fccd7dd2/invoke.js"></scr' + 'ipt>');
+        </script>
+      </div>
+      <input class="hiddenUpload" type="file" accept=".save" hidden />
+
+
+      <input type="text" id="gamesearch" placeholder="Type here to search.." />
+      <div class="samerow">
+        <sl-tooltip content="Remember to download your save, so you don't lose your progress." trigger="manual" class="manual-tooltip">
+          <button onclick="downloadMainSave()">Download Save</button>
+        </sl-tooltip>
+        <button id="upload" onclick="uploadMainSave()">Upload Save</button>
+      </div>
+      <div class="samerow">
+        <button id="random" onclick="selectRandomGame()">
+          Play a random game!
+        </button>
+        <button id="recommend" onclick="recommendedGames()">
+          Click to view recommended games!
+        </button>
+      </div>
+
+      <h2>Pinned Games</h2>
+      <p id="pinnedmessage">pin some games for things to show up here!</p>
+      <div id="pinned"></div>
+      
+
+      <h2>All Games</h2>
+      <div id="games">
+        <p id="message">games loading..</p>
+      </div>
+      <div id="adcontainer">
+        <h3><a href="ad.html">AD (click to read more):</a></h3>
+        <script async="async" data-cfasync="false" src="//pl22225360.toprevenuegate.com/92108816b5da54426d1639bcbfb5785c/invoke.js"></script>
+        <div id="container-92108816b5da54426d1639bcbfb5785c"></div>
+      </div>
+
+    </main>
+
+    <footer>
+      <a href="https://github.com/ublockedslackrr/ublockedslackrr.github.io">Source Code</a>
+      <a id="panicmode">Panic Mode (settings)</a>
+      <a href="/transfer.html">Transfer your data</a>
+      <a href="https://discord.gg/7jyufnwJNf">Discord</a>
+      <a href="/suggest.html">Bugs & suggestions</a>
+      <a href="/social.html">socials</a>
+      <a href="/version.html">Version: <i>v1.o.2 </i></a>
+    </footer>
+  </body>
+</html>
