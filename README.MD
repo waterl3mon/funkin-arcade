@@ -15,124 +15,45 @@ Website by @ublockedSlackrr.
 - XE
 - ann
 - anotherfridaynight
-- auditor
- 
- 
-bob
- 
- 
-bobandbossip
- 
- 
-bsides
- 
- 
-deepseadate
- 
- 
-dusttale
- 
- 
-eteled
-crap
- 
- 
- 
-flipside
- 
- 
-h3llbeats
- 
- 
-henry
- 
- 
-hex
- 
- 
-impostor
- 
-
-matt
- 
- 
-midfightmasses
- 
- 
-minus
- 
- 
-monika
-monika full week
- 
-neo
- 
- 
-nonsense
-im gonna rip my hair out
- 
-rosecriminal
- 
- 
-saltyssundaynight
- 
- 
-sans
- 
- 
-shaggy
- 
- 
-shaggyhd
-shaggyhd with god eater
- 
-shaggymatt
- 
-smokeemoutstruggle
-GORILLA
- 
-sonicexe
- 
- 
-spinel
- 
- 
-starcatcher
- 
- 
-tabi
- 
- 
-tord
- 
- 
-touhou
- 
- 
-tricky
- 
- 
-upside
- 
- 
-void
- 
- 
-vschara
- 
- 
-vsmiku
- 
- 
-week6
- 
- 
-week7
-
-whitman
-
-x-sides
-
-xevent
-
-zardy
+- auditor 
+- bob
+- bobandbossip
+- bsides
+- deepseadate
+- dusttale
+- eteled
+- flipside
+- h3llbeats
+- henry (stickman)
+- hex
+- impostor
+- matt
+- Servante midfight masses
+- minus
+- monika
+- monika full week
+- neo
+- rosecriminal
+- saltyssundaynight
+- sans
+- shaggy
+- shaggy HD
+- shaggy HD with God eater
+- shaggy matt
+- smoke emout struggle
+- GORILLA
+- sonicexe
+- spinel
+- starcatcher
+- tabi
+- tord
+- touhou
+- tricky
+- upside
+- void
+- vschara
+- vsmiku
+- whitman (whitty??)
+- x-sides
+- x event
+- zardy
