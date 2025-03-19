@@ -4,7 +4,7 @@
 
 
 Source code for VS ALL Mods V1.
-Thanks to @ for the website links, all mods will be added here: https://ublockedslackrr.github.io./fnfmods.html
+Thanks to @funkymods for the website links, all mods will be added here: https://ublockedslackrr.github.io./fnfmods.html
 
 
 Website by @ublockedSlackrr.
