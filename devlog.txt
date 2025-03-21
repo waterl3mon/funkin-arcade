@@ -1,3 +1,8 @@
 i didnt write earlier but, i uploaded files from the main website at slackrr, god i hate this. i cant seem to make the background work at all..
 idk if i missed a file or its just stupid and wont update fast enough, anyway type the website url with a dot at the end of (.io) --> (.io.) then type in the repository files
 like Miku Mod, website url.github.io./Miku (make sure its the folder name EXACTLY) or it wont appear. - Mar.18.2025.10-27
+
+DUDEEEEE- the funkin' files arent even the exact mods, some are just the same as the original but worse or have the modded files but
+are broken-ish, could of been the way he compiled the files or they were just like that to begin with. either way i must update that
+soon because if id dont get it fixed the mods wont be working correctly, in turn i gotta find the actual sources or new modded sources
+that contain the same mods as the ones in here but that are actually working. Mar.21.2025.2-27
