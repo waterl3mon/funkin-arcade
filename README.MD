@@ -1,13 +1,12 @@
-# Friday Night Funkin': Mod Arcade V1
+# Friday Night Funkin': Mod Arcade V1.6
 
 ![All Mods Banner](https://github.com/repositoryrepos/Fnf-Mods/blob/master/bg.png)
 
 
 Source code for VS ALL Mods V1.
-Thanks to @funkymods for the website links, all mods will be added here: https://ublockedslackrr.github.io./fnfmods.html
+Thanks to @funkymods for the website links,
 
-
-Website by @ublockedSlackrr.
+Website by @repositoryrepos.
 
 # mods Listed down bellow!
 
@@ -53,6 +52,7 @@ Website by @ublockedSlackrr.
 - void
 - vschara
 - vsmiku
+- kanye mod
 - whitman (whitty??)
 - x-sides
 - x event
