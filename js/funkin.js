@@ -1,4 +1,4 @@
-$.getJSON("json/fnfmods.json", function (data) {
+$.getJSON("json/funkin.json", function (data) {
 	if (document.readyState === "complete") {
 		loadGames(data);
 	} else {
